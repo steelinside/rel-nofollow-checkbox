@@ -7,10 +7,10 @@ Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a checkbox to allow implement some class to given link.
+Adds a checkbox to allow implement .fancy-link class to a given link.
 
 == Description ==
-This plugin adds a simple checkbox in the insert/edit link popup for adding class «fancy-link» to given link.
+This plugin adds a simple checkbox in the insert/edit link popup for adding .fancy-link class to given link.
 
 == Installation ==
 1. Download the latest zip file and extract the ***fancy-links*** directory.
@@ -18,7 +18,7 @@ This plugin adds a simple checkbox in the insert/edit link popup for adding clas
 3. Activate ***Rel Nofollow Checkbox*** on the ***Plugins*** menu in WordPress.
 
 == Frequently Asked Questions ==
-= Does it add any styles? =
+= Does it contain any styles? =
 Nope. You'll have to add .fancy-link class to your style.css by yourself, and style it as you want.
 It may look like this:
 .fancy-link{
