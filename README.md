@@ -27,13 +27,14 @@ Add .fancy-link class to your style.css. It may look like this:
   background-color: #FAD000;
   padding: 2px 5px;
   text-decoration: underline;
-  }```
+  }
+  ```
 
-Or however you want.
+Or put there whatever you want.
 
-When you ready to add a link in Visual editor check the checkbox below link address and title. Check html of your post, and you'll see that your link now looks like this: `<a class = "fancy-link" href = "http://yoursite.com" title = "yourlink name">Your cute link</a>`. That's it.
+When you ready to add a link in Visual editor check the checkbox below fields with link address and title. Check `html` of your post, and you'll see that your link now looks like this: `<a class = "fancy-link" href = "http://yoursite.com" title = "yourlink name">Your cute link</a>`. That's it.
 
-If you'll need some other checkboxes, than dig inside wplink.js file.
+If you'll need some other checkboxes, than dig inside `wplink.js` file.
 
 ## License
 
