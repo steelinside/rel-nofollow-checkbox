@@ -18,7 +18,7 @@ This plugin adds a simple checkbox in the insert/edit link popup for adding clas
 3. Activate ***Rel Nofollow Checkbox*** on the ***Plugins*** menu in WordPress.
 
 == Frequently Asked Questions ==
-= Does it add any styles =
+= Does it add any styles? =
 Nope. You'll have to add .fancy-link class to your style.css by yourself, and style it as you want.
 It may look like this:
 .fancy-link{
@@ -28,5 +28,5 @@ It may look like this:
   text-decoration: underline;
 }
 
-= Where is the options? =
-Sorry, no options. If you'll need more checkboxes, than dig into the code of wplink.min.js
+= Where is the options, dude? =
+Sorry, no options. If you'll need more checkboxes, than dig into the code of wplink.min.js.
