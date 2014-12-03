@@ -7,7 +7,7 @@ Stable tag: 1.0.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Adds a checkbox to allow implement some class to given link.
+Adds a checkbox to allow implement some class to a given link.
 
 == Description ==
 This plugin adds a simple checkbox in the insert/edit link popup for adding class «fancy-link» to given link.
